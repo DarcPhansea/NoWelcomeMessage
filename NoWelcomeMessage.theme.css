@@ -1,0 +1,5 @@
+//META{"name":"No Welcome Message","description":"Removes Discord's Welcome Message","author":"DarcPhansea","version":"0.0.1"}*//{}
+
+div[class^="welcomeMessage-3_Mcht"] {
+  display: none;
+}
